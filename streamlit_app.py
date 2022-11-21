@@ -1,6 +1,8 @@
 import streamlit
 streamlit.title("My first streamlit file")
-streamlit.header("first header")
-streamlit.text("first text line")
-streamlit.text("second text line")
-streamlit.text("third text line")
+streamlit.header('🍌🥭 Breakfast Menu')
+streamlit.text('🍇 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥝 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🥭 Hard-Boiled Free-Range Egg')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
